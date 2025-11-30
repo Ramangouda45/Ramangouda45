@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Learning Full Stack Web Development
-- 💻 Interested in MERN Stack & Django
+- 💻 Backend development in PYTHON/Django
 - 🚀 Open-source contributor
 
 
@@ -50,6 +50,14 @@
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramangouda45&layout=compact&theme=radical)
+
 
 
 
