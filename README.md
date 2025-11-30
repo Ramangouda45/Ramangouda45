@@ -8,8 +8,8 @@
 - ## 📬 Reach Out to Me
 
 
-- 🐙 Linkdin: https://www.linkedin.com/in/ramangouda-mulimani-821361309/
-- 🐦 Twitter / X: https://x.com/RamangoudaSanju?t=GQj63-Mopt6vTIaGneaHDA&s=09
+- 🐙 Linkdin: https://linkedin.com/in/ramangouda-mulimani-821361309
+- 🐦 Twitter / X: https://x.com/RamangoudaSanju
 - 📧 Email: ramangoudasanjusanju@gmail.com
   
 
