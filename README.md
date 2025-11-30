@@ -10,13 +10,9 @@
 
 
 - 🐙 Linkdin: https://www.linkedin.com/in/ramangouda-mulimani-821361309/
-- 
 - 🐦 Twitter / X: https://x.com/RamangoudaSanju?t=GQj63-Mopt6vTIaGneaHDA&s=09
-- 
 - 📧 Email: ramangoudasanjusanju@gmail.com
-- 
-
-
+  
 
 
 ### 🧰 Languages, Tools & Technologies
@@ -49,9 +45,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ramangouda45=Ramangouda45&layout=compact&theme=radical)
 
----
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
 
