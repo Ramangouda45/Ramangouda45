@@ -37,6 +37,5 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn]![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-(https://www.linkedin.com/in/ramangouda-mulimani-821361309/)
+[![LinkedIn](https://www.linkedin.com/in/ramangouda-mulimani-821361309/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](#)
