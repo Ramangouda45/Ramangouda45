@@ -4,6 +4,12 @@
 - 🌱 Learning Full Stack Web Development
 - 💻 Interested in MERN Stack & Django
 - 🚀 Open-source contributor
+- ## 📬 Reach Out to Me
+
+- 🐙 Linkdin: linkedin.com/in/ramangouda-mulimani-821361309
+- 🐦 Twitter / X: (https://x.com/RamangoudaSanju?t=GQj63-Mopt6vTIaGneaHDA&s=09)
+- 📧 Email: ramangoudasanjusanju@gmail.com
+
 
 
 
