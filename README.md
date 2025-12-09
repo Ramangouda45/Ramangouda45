@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 - 🌱 Learning Full Stack Web Development
 - 💻 Backend development in PYTHON/Django
-- 🚀 Open-source contributor
+- 🚀 Open-source contributor .
 
 
 
