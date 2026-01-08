@@ -47,7 +47,8 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)](https://git.io/streak-stats) 
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+
 
 
 
@@ -62,9 +63,10 @@
 
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Ramangouda45=Ramangouda45&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ramangouda45=Ramangouda45&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
 
 
 
