@@ -13,7 +13,7 @@
  
 - 🐙 Linkdin: https://linkedin.com/in/ramangouda-mulimani-821361309
 - 🐦 Twitter / X: https://x.com/RamangoudaSanju
-- 📧 Email: ramangoudasanjusanju@gmail.com
+- 📧 Email: ramangoudasanjusanju@gmail.com .
   
 
 
