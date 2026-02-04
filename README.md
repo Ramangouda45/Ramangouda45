@@ -5,11 +5,9 @@
 
 
 
-<!-- ===== HERO ===== -->
-<h1 align="center">👋 Hi, I'm Ramangouda</h1>
-
 <p align="center">
-  <b>Full-Stack Developer</b> • <b>Student</b> • 🇮🇳 India
+  <b>🌱 I’m currently learning Full-Stack Web Development
+</b> • <b>Student</b>
 </p>
 
 <p align="center">
@@ -23,12 +21,17 @@
 
 <div align="center">
 
-🎓 Student  
-💻 Interested in Full-Stack Web Development  
-🤖 Knows Basic Machine Learning  
-🌱 Learning Web Development & Programming  
-💬 Ask me about HTML, CSS, JavaScript, C, Python  
-⚡ Loves building projects & exploring new tech  
+<div align="center" style="font-size:17px; line-height:1.9;">
+
+🎓 <b>Student</b>  
+💻 <b>Full-Stack Web Development Enthusiast</b>  
+🤖 <b>Basic Machine Learning Knowledge</b>  
+🌱 <b>Currently Learning Full-Stack Development</b>  
+💬 <b>Ask me about:</b> HTML, CSS, JavaScript, C, Python  
+⚡ <b>Loves building projects & exploring new technologies</b>  
+
+</div>
+
 
 </div>
 
