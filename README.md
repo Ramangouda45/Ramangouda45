@@ -63,13 +63,16 @@
 
 <hr/>
 
-<!-- ===== GITHUB STATS ===== -->
-<div class="stars">
-  <i class="fa fa-star" data-value="1"></i>
-  <i class="fa fa-star" data-value="2"></i>
-  <i class="fa fa-star" data-value="3"></i>
-  <i class="fa fa-star" data-value="4"></i>
-  <i class="fa fa-star" data-value="5"></i>
+<div align="center">
+
+## ⭐ GitHub Rating
+
+<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
+
 </div>
 
 
