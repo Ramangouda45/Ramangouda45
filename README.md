@@ -65,21 +65,28 @@
 
 <div align="center">
 
-## ⭐ GitHub Rating
+<div align="center">
 
+## ⭐ GitHub Rating
 <img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
 <img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
 <img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
 <img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
 <img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ramangouda45&show_icons=true&theme=dark"/>
+
+---
+
+## 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramangouda45&layout=compact&theme=dark"/>
 
 </div>
-
-
-<hr/>
-
-
-<hr/>
 
 <!-- ===== FOOTER BANNER ===== -->
 <p align="center">
