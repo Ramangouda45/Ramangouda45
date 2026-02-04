@@ -8,15 +8,22 @@
 
 
  
-- ## 📬 Reach Out to Me
+   ## 📬 Reach Out to Me
 
  
-- 🐙 Linkdin: https://linkedin.com/in/ramangouda-mulimani-821361309
-- 🐦 Twitter / X: https://x.com/RamangoudaSanju
-- 📧 Email: ramangoudasanjusanju@gmail.com .
+<div align="center"> 
+  <a href="mailto:ramangoudasanjusanju@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ramangouda-mulimani-821361309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/RamangoudaSanju" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</div>
+
   
-
-
 
 
 
