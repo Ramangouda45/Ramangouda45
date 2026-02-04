@@ -1,6 +1,6 @@
 <!-- ===== DARK BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ramangouda&fontColor=58A6FF&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ramangouda&fontColor=color:#C9D1D9;&fontSize=50" />
 </p>
 
 <!-- ===== TYPING TEXT ===== -->
