@@ -64,15 +64,14 @@
 <hr/>
 
 <!-- ===== GITHUB STATS ===== -->
-<h2 align="center">📊 GitHub Stats</h2>
+<div class="stars">
+  <i class="fa fa-star" data-value="1"></i>
+  <i class="fa fa-star" data-value="2"></i>
+  <i class="fa fa-star" data-value="3"></i>
+  <i class="fa fa-star" data-value="4"></i>
+  <i class="fa fa-star" data-value="5"></i>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramangouda45&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramangouda45&theme=tokyonight" />
-</p>
 
 <hr/>
 
