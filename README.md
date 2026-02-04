@@ -1,98 +1,86 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=35&section=header"/>
-</p>
+<h1 align="center" style="font-size: 42px; font-weight: 800; color: #58A6FF;">
+  👋 Hi there, I'm Ramangouda
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=200&pause=10000&repeat=false&color=FF0000&center=true&vCenter=true&width=500&lines=Ramangouda+Mulimani" />
-</p>
+<h3 align="center" style="font-size: 20px; font-weight: 500; color: #C9D1D9;">
+  Full-Stack Developer & Student from India 🇮🇳
+</h3>
 
 
 
-<p align="center">
-  <b>🌱 I’m currently learning Full-Stack Web Development
-</b> • <b>Student</b>
-</p>
+<br/>
 
-<p align="center">
-  Building modern web applications & learning new technologies
-</p>
-
-<hr/>
-
-<!-- ===== ABOUT ===== -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<div align="center">
-
-<div align="center" style="font-size:17px; line-height:1.9;">
+<div align="center" style="font-size: 16px; line-height: 1.8;">
 
 🎓 <b>Student</b>  
-💻 <b>Full-Stack Web Development Enthusiast</b>  
-🤖 <b>Basic Machine Learning Knowledge</b>  
-🌱 <b>Currently Learning Full-Stack Development</b>  
-💬 <b>Ask me about:</b> HTML, CSS, JavaScript, C, Python  
-⚡ <b>Loves building projects & exploring new technologies</b>  
+💻 Interested in <b>Full-Stack Web Development</b>  
+🤖 Knows <b>Basic Machine Learning</b>  
+🌱 Learning <b>Web Development & Programming</b>  
+💬 Ask me about <b>HTML, CSS, JavaScript, C, Python</b>  
+⚡ Fun fact: <b>Loves exploring new technologies & building projects</b>
 
 </div>
 
 
-</div>
+ 
+  <h2 align="center" style="color:#58A6FF;">📬 Reach Out to Me</h2>
 
-<hr/>
 
-<!-- ===== CONTACT ===== -->
-<h2 align="center">📬 Reach Out to Me</h2>
-
-<p align="center">
+ 
+<div align="center"> 
   <a href="mailto:ramangoudasanjusanju@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/ramangouda-mulimani-821361309">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/ramangouda-mulimani-821361309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/RamangoudaSanju">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://x.com/RamangoudaSanju" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-</p>
+</div>
 
-<hr/>
+  
 
-<!-- ===== TECH STACK ===== -->
-<h2 align="center">🛠 Languages & Tools</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,python,c,cpp,java,mongodb,mysql,git,github,vscode,vercel" />
-</p>
 
-<hr/>
 
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-<div align="center">
-
-<h2 align="center">⭐ GitHub Rating</h2>
-
-<p align="center">
-  ⭐ ⭐ ⭐ ⭐ ⭐
-</p>
-
+<br/>
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramangouda45&show_icons=true&theme=dark" />
-</p>
 
-<hr/>
+---
 
-<h2 align="center">💻 Most Used Languages</h2>
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramangouda45&layout=compact&theme=dark" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
 
-<!-- ===== FOOTER BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
-</p>
+
+
+
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramangouda45&layout=compact&theme=radical)
+
+
+
+
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+
+
+
