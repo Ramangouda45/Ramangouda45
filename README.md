@@ -1,12 +1,9 @@
 <!-- ===== DARK BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ramangouda&fontColor=color:#C9D1D9;&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ramangouda&fontColor=color:##39D0FF;;&fontSize=50" />
 </p>
 
-<!-- ===== TYPING TEXT ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science+Student;Machine+Learning+Beginner;Open+Source+Enthusiast" />
-</p>
+
 
 <!-- ===== HERO ===== -->
 <h1 align="center">👋 Hi, I'm Ramangouda</h1>
