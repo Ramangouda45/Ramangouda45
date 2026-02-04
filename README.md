@@ -75,18 +75,6 @@
 
 <hr/>
 
-<!-- ===== PROJECTS ===== -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-| Project Name | Description | Tech |
-|-------------|------------|------|
-| Portfolio Website | Personal portfolio site | HTML, CSS, JS |
-| Student Management System | CRUD app | Python |
-| ML Mini Project | Prediction system | Python |
-
-</div>
 
 <hr/>
 
