@@ -1,6 +1,6 @@
 <!-- ===== DARK BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ramangouda&fontColor=color:##39D0FF;;&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ramangouda&fontColor=color:#58A6FF;;;&fontSize=50" />
 </p>
 
 
