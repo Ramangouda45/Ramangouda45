@@ -67,26 +67,27 @@
 
 <div align="center">
 
-## ⭐ GitHub Rating
-<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/★-gold?style=for-the-badge">
+<h2 align="center">⭐ GitHub Rating</h2>
 
----
+<p align="center">
+  ⭐ ⭐ ⭐ ⭐ ⭐
+</p>
 
-## 📊 GitHub Stats
+<hr/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ramangouda45&show_icons=true&theme=dark"/>
+<h2 align="center">📊 GitHub Stats</h2>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramangouda45&show_icons=true&theme=dark" />
+</p>
 
-## 💻 Most Used Languages
+<hr/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramangouda45&layout=compact&theme=dark"/>
+<h2 align="center">💻 Most Used Languages</h2>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramangouda45&layout=compact&theme=dark" />
+</p>
 
 <!-- ===== FOOTER BANNER ===== -->
 <p align="center">
