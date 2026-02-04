@@ -1,86 +1,97 @@
-<h1 align="center" style="font-size: 42px; font-weight: 800; color: #58A6FF;">
-  👋 Hi there, I'm Ramangouda
-</h1>
+<!-- ===== DARK BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ramangouda&fontColor=58A6FF&fontSize=50" />
+</p>
 
-<h3 align="center" style="font-size: 20px; font-weight: 500; color: #C9D1D9;">
-  Full-Stack Developer & Student from India 🇮🇳
-</h3>
+<!-- ===== TYPING TEXT ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science+Student;Machine+Learning+Beginner;Open+Source+Enthusiast" />
+</p>
 
+<!-- ===== HERO ===== -->
+<h1 align="center">👋 Hi, I'm Ramangouda</h1>
 
+<p align="center">
+  <b>Full-Stack Developer</b> • <b>Student</b> • 🇮🇳 India
+</p>
 
-<br/>
+<p align="center">
+  Building modern web applications & learning new technologies
+</p>
 
-<div align="center" style="font-size: 16px; line-height: 1.8;">
-
-🎓 <b>Student</b>  
-💻 Interested in <b>Full-Stack Web Development</b>  
-🤖 Knows <b>Basic Machine Learning</b>  
-🌱 Learning <b>Web Development & Programming</b>  
-💬 Ask me about <b>HTML, CSS, JavaScript, C, Python</b>  
-⚡ Fun fact: <b>Loves exploring new technologies & building projects</b>
-
-</div>
-
-
- 
-  <h2 align="center" style="color:#58A6FF;">📬 Reach Out to Me</h2>
-
-
- 
-<div align="center"> 
-  <a href="mailto:ramangoudasanjusanju@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ramangouda-mulimani-821361309" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/RamangoudaSanju" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</div>
-
-  
-
-
-
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
 <hr/>
 
+<!-- ===== ABOUT ===== -->
+<h2 align="center">👨‍💻 About Me</h2>
 
+<div align="center">
 
----
+🎓 Student  
+💻 Interested in Full-Stack Web Development  
+🤖 Knows Basic Machine Learning  
+🌱 Learning Web Development & Programming  
+💬 Ask me about HTML, CSS, JavaScript, C, Python  
+⚡ Loves building projects & exploring new tech  
 
-## 🔥 GitHub Streak
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+<hr/>
 
+<!-- ===== CONTACT ===== -->
+<h2 align="center">📬 Reach Out to Me</h2>
 
+<p align="center">
+  <a href="mailto:ramangoudasanjusanju@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://linkedin.com/in/ramangouda-mulimani-821361309">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/RamangoudaSanju">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
+<hr/>
 
+<!-- ===== TECH STACK ===== -->
+<h2 align="center">🛠 Languages & Tools</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,git,github" />
+</p>
 
-## 📊 Most Used Languages
+<hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramangouda45&layout=compact&theme=radical)
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramangouda45&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ramangouda45&theme=tokyonight" />
+</p>
 
+<hr/>
 
+<!-- ===== PROJECTS ===== -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+| Project Name | Description | Tech |
+|-------------|------------|------|
+| Portfolio Website | Personal portfolio site | HTML, CSS, JS |
+| Student Management System | CRUD app | Python |
+| ML Mini Project | Prediction system | Python |
 
+</div>
 
+<hr/>
 
-
+<!-- ===== FOOTER BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+</p>
