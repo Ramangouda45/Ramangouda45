@@ -1,28 +1,30 @@
-# 👋 Hi there, I'm Ramangouda!
+<h1 align="center" style="font-size: 42px; font-weight: 800; color: #58A6FF;">
+  👋 Hi there, I'm Ramangouda
+</h1>
 
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h3 align="center" style="font-size: 20px; font-weight: 500; color: #C9D1D9;">
+  Full-Stack Developer & Student from India 🇮🇳
+</h3>
+
+
 
 <br/>
 
-<div align="center">
+<div align="center" style="font-size: 16px; line-height: 1.8;">
 
-🎓 I’m currently a **Student**
-
-💻 I’m interested in **Full-Stack Web Development**
-
-🤖 I know about **Basic Machine Learning**
-
-🌱 I’m currently learning **Web Development & Programming**
-
-💬 Ask me about **HTML, CSS, JavaScript, C, Python... or anything [here](https://github.com/your-github-username/your-github-username/issues)**
-
-⚡ Fun fact: **I love exploring new technologies and building projects**
+🎓 <b>Student</b>  
+💻 Interested in <b>Full-Stack Web Development</b>  
+🤖 Knows <b>Basic Machine Learning</b>  
+🌱 Learning <b>Web Development & Programming</b>  
+💬 Ask me about <b>HTML, CSS, JavaScript, C, Python</b>  
+⚡ Fun fact: <b>Loves exploring new technologies & building projects</b>
 
 </div>
 
 
  
-   ## 📬 Reach Out to Me
+  <h2 align="center" style="color:#58A6FF;">📬 Reach Out to Me</h2>
+
 
  
 <div align="center"> 
