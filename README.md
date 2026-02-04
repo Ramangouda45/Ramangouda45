@@ -1,10 +1,24 @@
 # 👋 Hi there, I'm Ramangouda!
 
-### 👨‍💻 About Me
-- 🌱 Learning Full Stack Web Development
-- 💻 Backend development in PYTHON/Django
-- 🚀 Open-source contributor .
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
+<br/>
+
+<div align="center">
+
+🎓 I’m currently a **Student**
+
+💻 I’m interested in **Full-Stack Web Development**
+
+🤖 I know about **Basic Machine Learning**
+
+🌱 I’m currently learning **Web Development & Programming**
+
+💬 Ask me about **HTML, CSS, JavaScript, C, Python... or anything [here](https://github.com/your-github-username/your-github-username/issues)**
+
+⚡ Fun fact: **I love exploring new technologies and building projects**
+
+</div>
 
 
  
