@@ -1,21 +1,10 @@
 <!-- ===== DARK BANNER ===== -->
-<!-- HEADER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header"/>
 </p>
 
-<!-- TYPING NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=45
-&duration=200
-&pause=1000
-&color=58A6FF
-&center=true
-&vCenter=true
-&width=600
-&lines=Ramangouda+Mulimani" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&duration=200&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ramangouda+Mulimani" />
 </p>
 
 
