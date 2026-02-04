@@ -2,9 +2,6 @@
   👋 Hi there, I'm Ramangouda
 </h1>
 
-<h3 align="center" style="font-size: 20px; font-weight: 500; color: #C9D1D9;">
-  Full-Stack Developer & Student from India 🇮🇳
-</h3>
 
 
 
