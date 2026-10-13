@@ -1,14 +1,15 @@
+<div align-center>
 <h1>Hi 👋, I'm Ramangouda</h1>
 
-A passionate MCA student and developer from India 🇮🇳
+</div>
 
 🎓 I'm currently pursuing Master of Computer Applications (MCA)
 
 🌱 I'm currently learning Full-Stack Development, Machine Learning, and AI
 
-👨‍💻 I'm working on projects involving Web Development and AI-based applications
+📝  Check out my resume here -- My Resume
 
-💻 All of my projects are available on GitHub
+👨‍💻 I'm working on projects involving Web Development and AI-based applications
 
 💬 Ask me about Python, Django, React, JavaScript, and Machine Learning
 
@@ -167,7 +168,6 @@ A passionate MCA student and developer from India 🇮🇳
 </p>
 
 ---
-
 <div align="center">
   <h3>💡 "Build. Learn. Improve. Repeat."</h3>
   <p>Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.</p>
