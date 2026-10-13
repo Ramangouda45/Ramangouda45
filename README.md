@@ -7,8 +7,6 @@
 
 🌱 I'm currently learning Full-Stack Development, Machine Learning, and AI
 
-📝  Check out my resume here -- My Resume
-
 👨‍💻 I'm working on projects involving Web Development and AI-based applications
 
 💬 Ask me about Python, Django, React, JavaScript, and Machine Learning
