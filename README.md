@@ -1,4 +1,4 @@
-Hi 👋, I'm Ramangouda
+<h1>Hi 👋, I'm Ramangouda</h1>
 
 A passionate MCA student and developer from India 🇮🇳
 
@@ -32,8 +32,6 @@ A passionate MCA student and developer from India 🇮🇳
 
 ## 🛠️ Languages & Technologies
 
-### 💻 Programming Languages
-
 <p>
   <a href="https://en.cppreference.com/w/c">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -58,8 +56,6 @@ A passionate MCA student and developer from India 🇮🇳
   </a>
 </p>
 
-### 🌐 Frontend Development
-
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -78,8 +74,6 @@ A passionate MCA student and developer from India 🇮🇳
   </a>
 </p>
 
-### ⚙️ Backend Development
-
 <p>
   <a href="https://docs.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
@@ -95,7 +89,6 @@ A passionate MCA student and developer from India 🇮🇳
   </a>
 </p>
 
-### 🗄️ Databases
 
 <p>
   <a href="https://dev.mysql.com/doc/">
@@ -108,8 +101,6 @@ A passionate MCA student and developer from India 🇮🇳
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   </a>
 </p>
-
-### 🤖 Machine Learning & Data Science
 
 <p>
   <a href="https://numpy.org/doc/">
@@ -129,8 +120,6 @@ A passionate MCA student and developer from India 🇮🇳
   </a>
 </p>
 
-### 🔧 Tools & Workflow
-
 <p>
   <a href="https://git-scm.com/doc">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -149,26 +138,6 @@ A passionate MCA student and developer from India 🇮🇳
   </a>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 Online Grocery Shopping System
-A Django-based online grocery shopping platform featuring product management, cart and checkout, OTP authentication, order tracking, payment records, and an admin dashboard.
-
-**Technologies:** Python · Django · MySQL · HTML · CSS
-
-### 📦 E-commerce Delivery Analytics
-A machine learning project focused on predicting delivery delays and refund requests using e-commerce data, model evaluation, and data analysis.
-
-**Technologies:** Python · Pandas · NumPy · Scikit-learn · Machine Learning
-
-### 🧪 TestPilot AI
-An AI-assisted software testing framework designed to analyze software requirements, generate and prioritize test cases, and automate web application testing.
-
-**Technologies:** Python · FastAPI · React · SQLAlchemy · SQLite · Playwright · LLMs
-
----
 
 ## 📊 GitHub Statistics
 
