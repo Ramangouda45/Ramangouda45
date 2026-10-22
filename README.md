@@ -2,14 +2,14 @@
 <h1>Hi 👋, I'm Ramangouda</h1>
 
 </div>
-<h1> </h1>
-🎓 I'm currently pursuing Master of Computer Applications (MCA)
 
-🌱 I'm currently learning Full-Stack Development, Machine Learning, and AI
+• 🎓 I'm currently pursuing Master of Computer Applications (MCA)
 
-👨‍💻 I'm working on projects involving Web Development and AI-based applications
+• 🌱 I'm currently learning Full-Stack Development, Machine Learning, and AI
 
-💬 Ask me about Python, Django, React, JavaScript, and Machine Learning
+• 👨‍💻 I'm working on projects involving Web Development and AI-based applications
+
+• 💬 Ask me about Python, React,Express JS, JavaScript, and Machine Learning
 
 
   <p>
