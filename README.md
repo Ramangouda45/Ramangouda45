@@ -7,9 +7,10 @@
 
 • 🌱 I'm currently learning Full-Stack Development, Machine Learning, and AI
 
+• 📑 Check out my resume here - <a href="https://drive.google.com/file/d/1QzR_mvd8ilEyMG2_rMrGotUNWLApc2Dm/view?usp=drive_link">My Resume </a>
 • 👨‍💻 I'm working on projects involving Web Development and AI-based applications
 
-• 💬 Ask me about Python, React,Express JS, JavaScript, and Machine Learning
+• 💬 Ask me about Python, React ,Express JS, JavaScript, and Machine Learning
 
 
   <p>
