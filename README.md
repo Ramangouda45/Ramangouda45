@@ -59,9 +59,7 @@
   <a href="https://dev.mysql.com/doc/">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   </a>
-  <a href="https://www.php.net/manual/en/">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  </a>
+ 
 </p>
 
 <p>
@@ -83,9 +81,7 @@
 </p>
 
 <p>
-  <a href="https://docs.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  </a>
+ 
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   </a>
